@@ -4,8 +4,8 @@ Only sing 2 class from dataset (Pepaya & Nangka)<br>
 Testing using M1 GPU with 5 epoch <br>
 You can run more than 10 epoch to get better result.<br>
 ### Using EfficientNetB4:<br>
-- Accuracy : 94.17%<br>
-- Loss : 46.12%<br>
+- Accuracy : 99.71%<br>
+- Loss : 08.21%<br>
 # More Pre-Trained Model
 You can learn more pre-trained from here <br>
 https://keras.io/api/applications/ <br>
