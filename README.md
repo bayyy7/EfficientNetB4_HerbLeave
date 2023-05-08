@@ -1,11 +1,9 @@
 # Image Classification Using Transfer Learning
 Image Classification using Pre-Trained model EfficientNetB4 <br>
-Only run with 10 epoch because limitations of my laptop ^ . ^ <br>
-you can run more than 50 epoch to get better result.<br>
-### While using only CNN Architecture :<br>
-- Accuracy : 84.57%<br>
-- Loss : 68.04%<br>
-### Using VGG16 Architecture + Fine Tuning:<br>
+Only sing 2 class from dataset (Pepaya & Nangka)<br>
+Testing using M1 GPU with 5 epoch <br>
+You canrun more than 10 epoch to get better result.<br>
+### Using EfficientNetB4:<br>
 - Accuracy : 94.17%<br>
 - Loss : 46.12%<br>
 # Data
